@@ -3,10 +3,6 @@ vanilla-js-drone-mousemove
 
 > Jugando un poquito con eventos del mouse y vanilla js
 
-Demo
-----------
-[vanilla-js-drone-mousemove](http://durancristhian.github.io/vanilla-js-drone-mousemove)
-
 Screenshot
 ----------
 ![vanilla-js-drone-mousemove](https://raw.githubusercontent.com/durancristhian/vanilla-js-drone-mousemove/master/screenshots/website.png)
