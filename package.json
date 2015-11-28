@@ -1,6 +1,6 @@
 {
   "name": "vanilla-js-drone-mousemove",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "Moving a drone over the page with mouse events",
   "main": "server.js",
   "scripts": {
