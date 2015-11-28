@@ -38,7 +38,7 @@ body {
 	}
 }
 #drone {
-	background: url("drone.png");
+	background: url("../img/drone.png");
 	height: 58px;
 	left: 35%;
 	position: fixed;
@@ -47,7 +47,7 @@ body {
 	z-index: 100;
 }
 #pilot {
-	background: url("pilot.png");
+	background: url("../img/pilot.png");
 	bottom: 0;
 	height: 100px;
 	left: 150px;

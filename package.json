@@ -1,0 +1,22 @@
+{
+  "name": "vanilla-js-drone-mousemove",
+  "version": "2.0.0",
+  "description": "Moving a drone over the page with mouse events",
+  "main": "server.js",
+  "scripts": {
+    "bump": "bump package.json -M -y",
+    "github": "gh-pages -d public",
+    "start": "browser-sync start --config bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/durancristhian/skeleton.git"
+  },
+  "author": "Cristhian Javier Duran <durancristhian@gmail.com> (https://github.com/durancristhian)",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "2.10.0",
+    "bump-cli": "1.1.3",
+    "gh-pages": "0.5.0"
+  }
+}
