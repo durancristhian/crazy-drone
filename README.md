@@ -16,9 +16,8 @@ npm start
 ## Publish a new version
 
 ```
-npm run bump
 git add .
-git commit -m "hello world"
+git commit -m "New deploy to gh-pages"
 npm run github
 ```
 
