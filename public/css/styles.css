@@ -1,57 +1,32 @@
 body {
-	-webkit-animation: backgroundAnimation 10s infinite alternate;
-	animation: backgroundAnimation 10s infinite alternate;
-	background: #3498db;
+  -webkit-animation: backgroundAnimation 10s infinite alternate;
+  background: #3498db;
 }
+
 @-webkit-keyframes backgroundAnimation {
-	from {
-		background: #3498db;
-	}
-	25% {
-		background: #27ae60;
-	}
-	50% {
-		background: #9b59b6;
-	}
-	75% {
-		background: #c0392b;
-	}
-	to {
-		background: #f39c12;
-	}
+  from { background: #3498db; }
+  25%  { background: #27ae60; }
+  50%  { background: #9b59b6; }
+  75%  { background: #c0392b; }
+  to   { background: #f39c12; }
 }
-@keyframes backgroundAnimation {
-	from {
-		background: #3498db;
-	}
-	25% {
-		background: #27ae60;
-	}
-	50% {
-		background: #9b59b6;
-	}
-	75% {
-		background: #c0392b;
-	}
-	to {
-		background: #f39c12;
-	}
-}
+
 #drone {
-	background: url("../img/drone.png");
-	height: 58px;
-	left: 35%;
-	position: fixed;
-	top: 148px;
-	width: 150px;
-	z-index: 100;
+  background: url("../img/drone.png");
+  height: 58px;
+  left: 35%;
+  position: fixed;
+  top: 148px;
+  width: 150px;
+  z-index: 100;
 }
+
 #pilot {
-	background: url("../img/pilot.png");
-	bottom: 0;
-	height: 100px;
-	left: 150px;
-	position: fixed;
-	width: 100px;
-	z-index: 200;
+  background: url("../img/pilot.png");
+  bottom: 0;
+  height: 100px;
+  left: 150px;
+  position: fixed;
+  width: 100px;
+  z-index: 200;
 }

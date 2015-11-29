@@ -2,14 +2,14 @@ var path = require("path");
 var publicDir = path.join(__dirname, "public");
 
 var filesToWatch = [
-  // any .html - any folder
+  // any .html, any folder
   path.join(publicDir, "**", "*.html"),
 
-  // any .css (excluding compiled files)
+  // any .css, excluding compiled files
   path.join(publicDir, "css", "**", "*.css"),
   "!" + path.join(publicDir, "css", "**", "*.min.css"),
 
-  // any .js (excluding compiled files)
+  // any .js, excluding compiled files
   path.join(publicDir, "js", "**", "*.js"),
   "!" + path.join(publicDir, "js", "**", "*.min.js")
 ];
