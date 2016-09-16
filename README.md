@@ -1,6 +1,6 @@
 # crazy-drone
 
-***(FINISHED)*** :space_invader: Have you had the chance to control a drone? If not, that's your opportunity ;)
+:space_invader: Have you had the chance to control a drone? If not, that's your opportunity ;)
 
 ## Live demo
 
