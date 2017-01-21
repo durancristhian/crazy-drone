@@ -1,5 +1,7 @@
 # crazy-drone
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/durancristhian/crazy-drone.svg)](https://greenkeeper.io/)
+
 :space_invader: Have you had the chance to control a drone? If not, that's your opportunity ;)
 
 ## Live demo
